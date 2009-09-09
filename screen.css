@@ -1,0 +1,51 @@
+body {
+  font-family: ;
+  font-size: ;
+  color: ;
+}
+
+table {}
+thead {}
+tbody {}
+tr {}
+th {}
+td {}
+
+form {}
+.text_field {}
+.text_area {}
+.select_box {}
+.check_box {}
+.radio_button {}
+.file_field {}
+.submit_button {}
+.button_field {}
+label {}
+fieldset {}
+legend {}
+
+ul {}
+ol {}
+li {}
+
+ul.inline { list-style-type: none; }
+ul.inline li { display: inline; }
+
+a { outline: none; }
+a img { border: none; }
+a:hover {}
+
+h1 {} /* THIS SHOULD NOT BE THE LOGO KTHXBAI */
+h2 {} /* THIS SHOULD ALSO NOT BE THE LOGO KTHXBAI */
+h3 {} /* THIS SHOULD REALLY NOT BE THE LOGO KTHXBAI */
+h4 {} /* THIS SHOULD NOT BE THE LOGO EITHER KTHXBAI */
+h5 {} /* THIS SHOULD PROBABLY NOT BE THE LOGO KTHXBAI */
+h6 {} /* THIS SHOULD NOT BE USED KTHXBAI */
+
+.container { width: Xpx; margin: 0 auto; clear: both; }
+.content { clear: both; }
+.padded {}
+
+.notice {} /* DEFINE THIS FOR RAILS */
+.error {} /* DEFINE THIS FOR RAILS */
+.fieldWithErrors {} /* DEFINE THIS FOR RAILS */
